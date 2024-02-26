@@ -1,3 +1,6 @@
+# this is not the repository I use after your created the LISS group: 
+# https://github.com/LISS-2024/fennaz 
+
 import numpy as np
 
 #testing fenna
